@@ -52,32 +52,13 @@ section {
 
     background: linear-gradient(
 
-        rgb(163, 111, 111),
+        #a35f5f,
 
-        rgb(144, 144, 196),
+        #6161c0,
 
-        rgb(156, 245, 156)
-
-    );
-
-}
-
-#sec-2 {
-
-    width: 70%;
-
-    height: 40%;
-
-    display: none;
-
-    background: radial-gradient(
-
-        rgb(14, 161, 194),
-
-        rgb(144, 144, 196),
-
-        rgb(160, 106, 237)
+        #65d365
 
     );
 
 }
+
